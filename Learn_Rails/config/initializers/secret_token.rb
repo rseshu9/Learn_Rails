@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Listr::Application.config.secret_token = 'b566456b0ad5bc727a3349f1d1bc8589921e5817e92d43d3e837cedbf394b3ed0a4337137da6ec3cd711106528c377a7d533fe24551d6faf1e26d8f8362f5c0e'
+LearnRails::Application.config.secret_token = '1455e21a7acf6f9e5523d4060b8724a8fd3377f848a1f38282e95f5a7e5f00d4029253d4fa13f088ad6d141fb2f80586225dee732dce2be90b1746bf7cfdf46b'
